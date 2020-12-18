@@ -1,0 +1,17 @@
+D:\prt\ET\Bin\kcp.dll
+D:\prt\ET\Bin\libkcp.dylib
+D:\prt\ET\Bin\libkcp.so
+D:\prt\ET\Bin\NLog.config
+D:\prt\ET\Bin\App.dll.config
+D:\prt\ET\Bin\App.deps.json
+D:\prt\ET\Bin\App.runtimeconfig.json
+D:\prt\ET\Bin\App.runtimeconfig.dev.json
+D:\prt\ET\Bin\App.dll
+D:\prt\ET\Bin\App.pdb
+D:\prt\ET\Server\App\obj\Debug\Server.App.csprojAssemblyReference.cache
+D:\prt\ET\Server\App\obj\Debug\Server.App.csproj.CoreCompileInputs.cache
+D:\prt\ET\Server\App\obj\Debug\Server.App.AssemblyInfoInputs.cache
+D:\prt\ET\Server\App\obj\Debug\Server.App.AssemblyInfo.cs
+D:\prt\ET\Server\App\obj\Debug\Server.App.csproj.CopyComplete
+D:\prt\ET\Server\App\obj\Debug\App.dll
+D:\prt\ET\Server\App\obj\Debug\App.pdb

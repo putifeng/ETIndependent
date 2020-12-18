@@ -1,0 +1,13 @@
+D:\prt\ET\Bin\kcp.dll
+D:\prt\ET\Bin\libkcp.dylib
+D:\prt\ET\Bin\libkcp.so
+D:\prt\ET\Bin\Hotfix.deps.json
+D:\prt\ET\Bin\Hotfix.dll
+D:\prt\ET\Bin\Hotfix.pdb
+D:\prt\ET\Server\Hotfix\obj\Debug\Server.Hotfix.csprojAssemblyReference.cache
+D:\prt\ET\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CoreCompileInputs.cache
+D:\prt\ET\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfoInputs.cache
+D:\prt\ET\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfo.cs
+D:\prt\ET\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CopyComplete
+D:\prt\ET\Server\Hotfix\obj\Debug\Hotfix.dll
+D:\prt\ET\Server\Hotfix\obj\Debug\Hotfix.pdb

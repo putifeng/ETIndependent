@@ -1,0 +1,7 @@
+
+Client 工程与 Server 工程已经独立分开;
+Server和Config 文件夹可以直接拷贝到别的目录去;
+
+新增了个Bin/run.bat,可以脱离客户端启动
+
+打开server.sln 之后编译,运行Bin/run.bat 就可以了

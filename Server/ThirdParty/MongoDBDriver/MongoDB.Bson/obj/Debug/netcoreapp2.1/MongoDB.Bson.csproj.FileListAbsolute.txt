@@ -1,0 +1,10 @@
+D:\prt\ET\Bin\netcoreapp2.1\MongoDB.Bson.deps.json
+D:\prt\ET\Bin\netcoreapp2.1\MongoDB.Bson.dll
+D:\prt\ET\Bin\netcoreapp2.1\MongoDB.Bson.pdb
+D:\prt\ET\Bin\netcoreapp2.1\MongoDB.Bson.xml
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.1\MongoDB.Bson.csproj.CoreCompileInputs.cache
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.1\MongoDB.Bson.AssemblyInfoInputs.cache
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.1\MongoDB.Bson.AssemblyInfo.cs
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.1\MongoDB.Bson.dll
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.1\MongoDB.Bson.xml
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.1\MongoDB.Bson.pdb

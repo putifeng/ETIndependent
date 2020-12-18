@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3H9JF3VCOFwqC3VpRKIWYsKDhL+HS2S1Mnm8NcNjt0rsE85iOQxPcjFJtvrAhxK6G3pbub0XLsATyGgebHSnA==",
+  "success": true,
+  "projectFilePath": "D:\\prt\\ET\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

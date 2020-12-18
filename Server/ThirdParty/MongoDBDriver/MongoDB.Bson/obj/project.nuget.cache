@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGSEUMPBM3FE7WcF0bNDCEcDBy7t0+/lA/AIWl2M3Ln0y2fFo8FYK4hEFe4C6WpKmWmhzaXws13HNX1IaJMrSw==",
+  "success": true,
+  "projectFilePath": "D:\\prt\\ET\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.6.1\\microsoft.codeanalysis.fxcopanalyzers.2.6.1.nupkg.sha512",
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.codequality.analyzers\\2.6.1\\microsoft.codequality.analyzers.2.6.1.nupkg.sha512",
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.netcore.analyzers\\2.6.1\\microsoft.netcore.analyzers.2.6.1.nupkg.sha512",
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.netframework.analyzers\\2.6.1\\microsoft.netframework.analyzers.2.6.1.nupkg.sha512",
+    "C:\\Users\\QQ\\.nuget\\packages\\text.analyzers\\2.6.1\\text.analyzers.2.6.1.nupkg.sha512",
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\QQ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

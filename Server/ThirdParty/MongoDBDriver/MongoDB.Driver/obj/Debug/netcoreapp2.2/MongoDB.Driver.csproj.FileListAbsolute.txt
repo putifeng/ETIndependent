@@ -1,0 +1,12 @@
+D:\prt\ET\Bin\netcoreapp2.2\MongoDB.Driver.deps.json
+D:\prt\ET\Bin\netcoreapp2.2\MongoDB.Driver.dll
+D:\prt\ET\Bin\netcoreapp2.2\MongoDB.Driver.pdb
+D:\prt\ET\Bin\netcoreapp2.2\MongoDB.Driver.xml
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csprojAssemblyReference.cache
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csproj.CoreCompileInputs.cache
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.AssemblyInfoInputs.cache
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.AssemblyInfo.cs
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.csproj.CopyComplete
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.dll
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.xml
+D:\prt\ET\Server\ThirdParty\MongoDBDriver\MongoDB.Driver\obj\Debug\netcoreapp2.2\MongoDB.Driver.pdb
