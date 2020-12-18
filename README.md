@@ -1,6 +1,7 @@
 
 __讨论QQ群 : 474643097__  
-
+[ET5.0Git](https://github.com/egametang/ET/tree/Branch_V5.0) 
+[ET作者](https://github.com/egametang) 
 [ET论坛](https://bbs.honorworkroom.com/forum.php)  
 
 # ET的介绍：
